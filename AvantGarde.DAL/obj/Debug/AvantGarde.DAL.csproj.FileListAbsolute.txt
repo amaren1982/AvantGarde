@@ -1,0 +1,22 @@
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DAL\AvantGarde.DAL\bin\Debug\AvantGarde.DAL.dll
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DAL\AvantGarde.DAL\bin\Debug\AvantGarde.DAL.pdb
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DAL\AvantGarde.DAL\obj\Debug\AvantGarde.DAL.dll
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DAL\AvantGarde.DAL\obj\Debug\AvantGarde.DAL.pdb
+D:\personal\TK\Solution\AvantGarde.DAL\bin\Debug\AvantGarde.DAL.dll
+D:\personal\TK\Solution\AvantGarde.DAL\bin\Debug\AvantGarde.DAL.pdb
+D:\personal\TK\Solution\AvantGarde.DAL\obj\Debug\AvantGarde.DAL.dll
+D:\personal\TK\Solution\AvantGarde.DAL\obj\Debug\AvantGarde.DAL.pdb
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DAL\bin\Debug\AvantGarde.DAL.dll
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DAL\bin\Debug\AvantGarde.DAL.pdb
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DAL\bin\Debug\AvantGarde.DataContracts.dll
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DAL\bin\Debug\AvantGarde.DataContracts.pdb
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DAL\obj\Debug\AvantGarde.DAL.csprojResolveAssemblyReference.cache
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DAL\obj\Debug\AvantGarde.DAL.dll
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DAL\obj\Debug\AvantGarde.DAL.pdb
+G:\WORK\Solution\AvantGarde.DAL\bin\Debug\AvantGarde.DAL.dll
+G:\WORK\Solution\AvantGarde.DAL\bin\Debug\AvantGarde.DAL.pdb
+G:\WORK\Solution\AvantGarde.DAL\bin\Debug\AvantGarde.DataContracts.dll
+G:\WORK\Solution\AvantGarde.DAL\bin\Debug\AvantGarde.DataContracts.pdb
+G:\WORK\Solution\AvantGarde.DAL\obj\Debug\AvantGarde.DAL.csprojResolveAssemblyReference.cache
+G:\WORK\Solution\AvantGarde.DAL\obj\Debug\AvantGarde.DAL.dll
+G:\WORK\Solution\AvantGarde.DAL\obj\Debug\AvantGarde.DAL.pdb

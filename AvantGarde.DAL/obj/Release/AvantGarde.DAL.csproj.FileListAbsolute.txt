@@ -1,0 +1,7 @@
+G:\WORK\Solution\AvantGarde.DAL\bin\Release\AvantGarde.DAL.dll
+G:\WORK\Solution\AvantGarde.DAL\bin\Release\AvantGarde.DAL.pdb
+G:\WORK\Solution\AvantGarde.DAL\bin\Release\AvantGarde.DataContracts.dll
+G:\WORK\Solution\AvantGarde.DAL\bin\Release\AvantGarde.DataContracts.pdb
+G:\WORK\Solution\AvantGarde.DAL\obj\Release\AvantGarde.DAL.csprojResolveAssemblyReference.cache
+G:\WORK\Solution\AvantGarde.DAL\obj\Release\AvantGarde.DAL.dll
+G:\WORK\Solution\AvantGarde.DAL\obj\Release\AvantGarde.DAL.pdb

@@ -1,0 +1,17 @@
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DataContracts\AvantGarde.DataContracts\AvantGarde.DataContracts\bin\Debug\AvantGarde.DataContracts.dll
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DataContracts\AvantGarde.DataContracts\AvantGarde.DataContracts\bin\Debug\AvantGarde.DataContracts.pdb
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DataContracts\AvantGarde.DataContracts\AvantGarde.DataContracts\obj\Debug\AvantGarde.DataContracts.dll
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DataContracts\AvantGarde.DataContracts\AvantGarde.DataContracts\obj\Debug\AvantGarde.DataContracts.pdb
+D:\personal\TK\Solution\AvantGarde.DataContracts\bin\Debug\AvantGarde.DataContracts.dll
+D:\personal\TK\Solution\AvantGarde.DataContracts\bin\Debug\AvantGarde.DataContracts.pdb
+D:\personal\TK\Solution\AvantGarde.DataContracts\obj\Debug\AvantGarde.DataContracts.dll
+D:\personal\TK\Solution\AvantGarde.DataContracts\obj\Debug\AvantGarde.DataContracts.pdb
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DataContracts\bin\Debug\AvantGarde.DataContracts.dll
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DataContracts\bin\Debug\AvantGarde.DataContracts.pdb
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DataContracts\obj\Debug\AvantGarde.DataContracts.dll
+F:\Nitin\TechKriti\Avant Guard\Solution\AvantGarde.DataContracts\obj\Debug\AvantGarde.DataContracts.pdb
+G:\WORK\Solution\AvantGarde.DataContracts\bin\Debug\AvantGarde.DataContracts.dll
+G:\WORK\Solution\AvantGarde.DataContracts\bin\Debug\AvantGarde.DataContracts.pdb
+G:\WORK\Solution\AvantGarde.DataContracts\obj\Debug\AvantGarde.DataContracts.dll
+G:\WORK\Solution\AvantGarde.DataContracts\obj\Debug\AvantGarde.DataContracts.pdb
+G:\WORK\Solution\AvantGarde.DataContracts\obj\Debug\AvantGarde.DataContracts.csprojResolveAssemblyReference.cache

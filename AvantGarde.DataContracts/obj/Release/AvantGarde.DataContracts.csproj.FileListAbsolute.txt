@@ -1,0 +1,4 @@
+G:\WORK\Solution\AvantGarde.DataContracts\bin\Release\AvantGarde.DataContracts.dll
+G:\WORK\Solution\AvantGarde.DataContracts\bin\Release\AvantGarde.DataContracts.pdb
+G:\WORK\Solution\AvantGarde.DataContracts\obj\Release\AvantGarde.DataContracts.dll
+G:\WORK\Solution\AvantGarde.DataContracts\obj\Release\AvantGarde.DataContracts.pdb
